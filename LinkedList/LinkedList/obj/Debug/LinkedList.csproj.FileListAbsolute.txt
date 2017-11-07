@@ -1,0 +1,6 @@
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\mivy\Documents\Visual Studio 2015\Projects\AlgorithmsLynda\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
